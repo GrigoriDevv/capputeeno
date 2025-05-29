@@ -1,7 +1,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --logo-color: #5D5D6D;
+  --logo-color: #5d5d6d;
+  --bg-secondary: #f3f5f6;
+  --text-dark: #737380;
+  --delete-color: #de3838;
 }
 html,
 body {
